@@ -45,4 +45,3 @@ Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\Zo
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor\bin\Newtonsoft.Json.xml
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor\obj\Debug\ZoolandiaRazor.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor\obj\Debug\ZoolandiaRazor.pdb
-Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor\obj\Debug\ZoolandiaRazor.csprojResolveAssemblyReference.cache
