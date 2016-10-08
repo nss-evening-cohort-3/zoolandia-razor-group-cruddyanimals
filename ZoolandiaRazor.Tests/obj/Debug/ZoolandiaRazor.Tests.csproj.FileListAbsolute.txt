@@ -16,11 +16,9 @@ Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\Zo
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Castle.Core.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\EntityFramework.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\EntityFramework.SqlServer.dll
-Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\EntityFramework.SqlServerCompact.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Moq.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Newtonsoft.Json.dll
-Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\System.Data.SqlServerCe.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\System.Web.Helpers.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\System.Web.Mvc.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\System.Web.Razor.dll
@@ -33,7 +31,6 @@ Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\Zo
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Castle.Core.xml
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\EntityFramework.xml
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\EntityFramework.SqlServer.xml
-Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\EntityFramework.SqlServerCompact.xml
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Moq.xml
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Newtonsoft.Json.xml
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\System.Web.Helpers.xml
@@ -46,3 +43,4 @@ Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\Zo
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\obj\Debug\ZoolandiaRazor.Tests.csprojResolveAssemblyReference.cache
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\obj\Debug\ZoolandiaRazor.Tests.dll
 Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\obj\Debug\ZoolandiaRazor.Tests.pdb
+Z:\mattbruton On My Mac\workspace\C-Sharp\zoolandia-razor-group-cruddyanimals\ZoolandiaRazor.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
